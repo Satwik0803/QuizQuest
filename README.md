@@ -45,7 +45,7 @@ python app.py
 
 ### 3. Frontend
 Navigate to the frontend folder, install dependencies, and start the React development server:
-npm install
-npm run dev
+- npm install
+- npm run dev
 
 
