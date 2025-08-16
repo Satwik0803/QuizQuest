@@ -28,8 +28,7 @@ Python libraries:
 
 Database:
 - MySQL (should be installed, turned on, and running)  
-
-Note: In the backend code, the database connection details (host, username, password, and database name) are currently hardcoded.  
+- Note: In the backend code, the database connection details (host, username, password, and database name) are currently hardcoded.  
 These are for the local development database. If you set up your own environment, you will need to update these values to match your MySQL setup.
 ---
 
