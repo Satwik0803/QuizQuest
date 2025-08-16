@@ -38,6 +38,9 @@ These are for the local development database. If you set up your own environment
 ### 1. Start the Database
 Make sure your MySQL server is running before starting the backend.  
 
+<sub>**Note:** In the backend code, the database connection details (host, username, password, and database name) are currently hardcoded.  
+These are for the local development database. If you set up your own environment, you will need to update these values to match your MySQL setup.</sub>
+
 ### 2. Backend
 Navigate to the backend folder, install the required Python libraries, and run the Flask server:
 ```bash
